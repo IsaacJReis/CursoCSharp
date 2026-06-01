@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsr0P/+v4dY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\CursoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

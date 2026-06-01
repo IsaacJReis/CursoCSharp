@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|c:\\users\\isaac\\downloads\\cursocsharp-20260304t025031z-1-001\\cursocsharp\\classesemetodos\\construtores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|solutionrelative:classesemetodos\\construtores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|c:\\users\\isaac\\downloads\\cursocsharp-20260304t025031z-1-001\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|c:\\users\\isaac\\downloads\\cursocsharp-20260304t025031z-1-001\\cursocsharp\\classesemetodos\\membros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|solutionrelative:classesemetodos\\membros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|c:\\users\\isaac\\downloads\\cursocsharp-20260304t025031z-1-001\\cursocsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|solutionrelative:classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:37:18.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Construtores.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\ClassesEMetodos\\Construtores.cs",
+              "RelativeDocumentMoniker": "ClassesEMetodos\\Construtores.cs",
+              "ToolTip": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\ClassesEMetodos\\Construtores.cs",
+              "RelativeToolTip": "ClassesEMetodos\\Construtores.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:37:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ClassesEMetodos\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
+              "RelativeToolTip": "ClassesEMetodos\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:37:18.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Membros.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\ClassesEMetodos\\Membros.cs",
+              "RelativeDocumentMoniker": "ClassesEMetodos\\Membros.cs",
+              "ToolTip": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\ClassesEMetodos\\Membros.cs",
+              "RelativeToolTip": "ClassesEMetodos\\Membros.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:37:18.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
