@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac\\Downloads\\CursoCSharp-20260304T025031Z-1-001\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",

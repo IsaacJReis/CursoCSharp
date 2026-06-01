@@ -1,12 +1,15 @@
 ﻿using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.Fundamentos;
-using CursoCSharp.ClassesEMetodos;
 using System;
 using System.Collections.Generic;
-namespace CursoCSharp {
-    class Program {
-        static void Main(string[] args) {
+using static CursoCSharp.ClassesEMetodos.CalculadoraComum;
+namespace CursoCSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 //Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
@@ -39,9 +42,11 @@ namespace CursoCSharp {
                
                 //Classes e Metodos 
                 {"Membros - Classes e Metodos;", Membros.Executar},
-                {"Membros - Classes e Metodos;", Construtores.Executar},
-                                
-                
+                {"Construtores - Classes e Metodos;", Construtores.Executar},
+                {"Metodos Com Retorno - Classes e Metodos;", MetodosComRetorno.Executar},
+                {"Metodos Estáticos - Classes e Metodos;", MetodosEstaticos.Executar},
+
+
             });
 
             central.SelecionarEExecutar();
