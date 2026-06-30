@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|c:\\users\\isaac\\documents\\github\\cursocsharp\\cursocsharp\\classesemetodos\\metodosestaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|solutionrelative:classesemetodos\\metodosestaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|c:\\users\\isaac\\documents\\github\\cursocsharp\\cursocsharp\\classesemetodos\\metodoscomretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2069C6-3FDE-4C06-B22F-1F7EDF990235}|CursoCSharp.csproj|solutionrelative:classesemetodos\\metodoscomretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,34 +38,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwC0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwC4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T13:37:18.32Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MetodosEstaticos.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosEstaticos.cs",
+              "RelativeDocumentMoniker": "ClassesEMetodos\\MetodosEstaticos.cs",
+              "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosEstaticos.cs",
+              "RelativeToolTip": "ClassesEMetodos\\MetodosEstaticos.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:26:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MetodosComRetorno.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosComRetorno.cs",
               "RelativeDocumentMoniker": "ClassesEMetodos\\MetodosComRetorno.cs",
               "ToolTip": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosComRetorno.cs",
               "RelativeToolTip": "ClassesEMetodos\\MetodosComRetorno.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T15:03:05.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Construtores.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Construtores.cs",
               "RelativeDocumentMoniker": "ClassesEMetodos\\Construtores.cs",
@@ -69,12 +85,11 @@
               "RelativeToolTip": "ClassesEMetodos\\Construtores.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAmwDkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T13:37:18.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T13:37:18.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
               "RelativeDocumentMoniker": "ClassesEMetodos\\Pessoa.cs",
@@ -86,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Membros.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\Documents\\GitHub\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Membros.cs",
               "RelativeDocumentMoniker": "ClassesEMetodos\\Membros.cs",
