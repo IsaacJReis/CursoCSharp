@@ -19,6 +19,25 @@ namespace CursoCSharp.ClassesEMetodos {
             return String.Format("{0}/{1}/{2}", Nascimento.Day, Nascimento.Month, Nascimento.Year);
         }
 
+        public int GetIdade() {
+
+            int idade = DateTime.Now.Year - Nascimento.Year;
+
+            if (DateTime.Now.Month < Nascimento.Month)
+            {
+                idade--;
+            }
+
+            else if (DateTime.Now.Month == Nascimento.Month && DateTime.Now.Day < Nascimento.Day)
+                
+            {
+                idade--;
+            }
+
+            return idade;
+        
+        }
+
     }
     internal class Readonly {
         public static void Executar() {
@@ -26,8 +45,8 @@ namespace CursoCSharp.ClassesEMetodos {
 
             Console.WriteLine(novoCliente.Nome);
             Console.WriteLine(novoCliente.GetDataDeNascimento());
-            ;
-            ;
+            Console.WriteLine("Idade: {0}",novoCliente.GetIdade());
+            
         
         }
     }
