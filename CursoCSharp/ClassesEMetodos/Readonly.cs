@@ -41,7 +41,7 @@ namespace CursoCSharp.ClassesEMetodos {
     }
     internal class Readonly {
         public static void Executar() {
-            var novoCliente = new Cliente("Isaac Reis", new DateTime(2007, 12, 16));
+            var novoCliente = new Cliente("Isaac Reis", new DateTime(2007, 3, 12));
 
             Console.WriteLine(novoCliente.Nome);
             Console.WriteLine(novoCliente.GetDataDeNascimento());
