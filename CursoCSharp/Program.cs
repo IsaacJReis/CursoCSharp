@@ -4,6 +4,7 @@ using CursoCSharp.Fundamentos;
 using System;
 using System.Collections.Generic;
 using static CursoCSharp.ClassesEMetodos.CalculadoraComum;
+using static CursoCSharp.ClassesEMetodos.CarroOpicional;
 using static CursoCSharp.ClassesEMetodos.Moto;
 namespace CursoCSharp
 {
@@ -51,6 +52,7 @@ namespace CursoCSharp
                 {"Params - Classes e Metodos;", Params.Executar},
                 {"Parametros Nomeados - Classes e Metodos;", ParametrosNomeados.Executar},
                 {"Get e Set - Classes e Metodos;", GetSet.Executar},
+                {"Props - Classes e Metodos;", Props.Executar},
 
 
             });
